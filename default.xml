@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="linwenlongs" fetch="https://github.com/linwenlongs"  />
+    <default revision="master"  remote="linwenlongs" />
+    <project path="linwenlongs" name="lin.git" remote="linwenlongs"  revision="master"/>
+    
+</manifest>
